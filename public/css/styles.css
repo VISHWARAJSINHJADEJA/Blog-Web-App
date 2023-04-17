@@ -76,3 +76,24 @@ input[type="checkbox"] {
     opacity: 1;
     visibility: visible;
   }
+  
+body {
+  background-color: #E8ECEF;
+}
+
+
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}.img{
+  height: 27px;
+  margin: 0 10px;
+}
